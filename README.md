@@ -1,2 +1,0 @@
-# 2026_gameEnginemidterm
-게임엔진입문_중간프로젝트
